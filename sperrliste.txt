@@ -1,4 +1,4 @@
 SetMaster-Sperrliste v1
-ausgestellt=2026-11-22T10:34:08Z
-gesperrt=
-signatur=2EMkwTp1goNo4Z0r04kX8rXp90abMIz2kjBb-lPyFZriqGUPmD2ePHwwOR4TJu9a-0YWUSjDTPLHVxtcJUDrAw
+ausgestellt=2026-11-22T10:39:34Z
+gesperrt=SM-20261122-160F
+signatur=Y9-R77Cp_TSQv2Fqrr4EvYfBe4RQUK1VofHfNR9W0T1tUR_hz0hos9UrQJ_9xNF6IXXYVqulvWvZimm6PwVRBQ
