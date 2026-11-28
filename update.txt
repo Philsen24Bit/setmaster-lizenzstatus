@@ -1,11 +1,11 @@
 SetMaster-Update v1
-version=0.2.2
-datum=2026-11-26
-mac=https://github.com/Philsen24Bit/setmaster-lizenzstatus/releases/download/v0.2.2/SetMaster-mac.zip
-mac_sha512=0dc2219e028e2fd5f92da25f456c6549df5349f51124b2f486cf518ccc2172167a6255ba0cb46cdfbe17d125852e055b14074b1ecbb4ef2725f996930878a02b
-mac_groesse=7261697
+version=0.2.3
+datum=2026-11-28
+mac=https://github.com/Philsen24Bit/setmaster-lizenzstatus/releases/download/v0.2.3/SetMaster-mac.zip
+mac_sha512=4cf13a4f6f5e4f988d3d505f8602780af78db524cb4440d44814b298f73f70c145ca006ead4fcdd151aae0b83915dc0df66db4739bd095eba12c48ca7c5933a0
+mac_groesse=7537008
 win=
 win_sha512=
 win_groesse=0
 hinweise=
-signatur=nxZPGXkWrYQV1_a-EJKdc_ipSA6f80JimWtoXPeCATedRAOyzH-JdX-6wvjcfwfr9ZVd1igXYd_SLBX-rn7TCg
+signatur=5Z7FrgebxZg8PIbB05-NZpv9L4fKxYRfC8YpUY0uXBQJ3EMFIkQTBEcRpUHv7aM2wbWwNRd0xbeVvsjGjudGCg
